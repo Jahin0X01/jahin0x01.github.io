@@ -1,0 +1,1062 @@
+Pid      Process              Block      Variable                       Value
+-------- -------------------- ---------- ------------------------------ -----
+     420 smss.exe             0x004d07e8 Path                           C:\Windows\System32
+     420 smss.exe             0x004d07e8 SystemDrive                    C:
+     420 smss.exe             0x004d07e8 SystemRoot                     C:\Windows
+     484 csrss.exe            0x004607e8 ComSpec                        C:\Windows\system32\cmd.exe
+     484 csrss.exe            0x004607e8 FP_NO_HOST_CHECK               NO
+     484 csrss.exe            0x004607e8 NUMBER_OF_PROCESSORS           1
+     484 csrss.exe            0x004607e8 OS                             Windows_NT
+     484 csrss.exe            0x004607e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     484 csrss.exe            0x004607e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     484 csrss.exe            0x004607e8 PROCESSOR_ARCHITECTURE         x86
+     484 csrss.exe            0x004607e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 61 Stepping 4, GenuineIntel
+     484 csrss.exe            0x004607e8 PROCESSOR_LEVEL                6
+     484 csrss.exe            0x004607e8 PROCESSOR_REVISION             3d04
+     484 csrss.exe            0x004607e8 SystemDrive                    C:
+     484 csrss.exe            0x004607e8 SystemRoot                     C:\Windows
+     484 csrss.exe            0x004607e8 TEMP                           C:\Windows\TEMP
+     484 csrss.exe            0x004607e8 TMP                            C:\Windows\TEMP
+     484 csrss.exe            0x004607e8 USERNAME                       SYSTEM
+     484 csrss.exe            0x004607e8 windir                         C:\Windows
+     524 csrss.exe            0x004c07e8 ComSpec                        C:\Windows\system32\cmd.exe
+     524 csrss.exe            0x004c07e8 FP_NO_HOST_CHECK               NO
+     524 csrss.exe            0x004c07e8 NUMBER_OF_PROCESSORS           1
+     524 csrss.exe            0x004c07e8 OS                             Windows_NT
+     524 csrss.exe            0x004c07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     524 csrss.exe            0x004c07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     524 csrss.exe            0x004c07e8 PROCESSOR_ARCHITECTURE         x86
+     524 csrss.exe            0x004c07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 61 Stepping 4, GenuineIntel
+     524 csrss.exe            0x004c07e8 PROCESSOR_LEVEL                6
+     524 csrss.exe            0x004c07e8 PROCESSOR_REVISION             3d04
+     524 csrss.exe            0x004c07e8 SystemDrive                    C:
+     524 csrss.exe            0x004c07e8 SystemRoot                     C:\Windows
+     524 csrss.exe            0x004c07e8 TEMP                           C:\Windows\TEMP
+     524 csrss.exe            0x004c07e8 TMP                            C:\Windows\TEMP
+     524 csrss.exe            0x004c07e8 USERNAME                       SYSTEM
+     524 csrss.exe            0x004c07e8 windir                         C:\Windows
+     532 wininit.exe          0x001fccf0 ALLUSERSPROFILE                C:\ProgramData
+     532 wininit.exe          0x001fccf0 CommonProgramFiles             C:\Program Files\Common Files
+     532 wininit.exe          0x001fccf0 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     532 wininit.exe          0x001fccf0 ComSpec                        C:\Windows\system32\cmd.exe
+     532 wininit.exe          0x001fccf0 FP_NO_HOST_CHECK               NO
+     532 wininit.exe          0x001fccf0 NUMBER_OF_PROCESSORS           1
+     532 wininit.exe          0x001fccf0 OS                             Windows_NT
+     532 wininit.exe          0x001fccf0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     532 wininit.exe          0x001fccf0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     532 wininit.exe          0x001fccf0 PROCESSOR_ARCHITECTURE         x86
+     532 wininit.exe          0x001fccf0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 61 Stepping 4, GenuineIntel
+     532 wininit.exe          0x001fccf0 PROCESSOR_LEVEL                6
+     532 wininit.exe          0x001fccf0 PROCESSOR_REVISION             3d04
+     532 wininit.exe          0x001fccf0 ProgramData                    C:\ProgramData
+     532 wininit.exe          0x001fccf0 ProgramFiles                   C:\Program Files
+     532 wininit.exe          0x001fccf0 PUBLIC                         C:\Users\Public
+     532 wininit.exe          0x001fccf0 SystemDrive                    C:
+     532 wininit.exe          0x001fccf0 SystemRoot                     C:\Windows
+     532 wininit.exe          0x001fccf0 TEMP                           C:\Windows\TEMP
+     532 wininit.exe          0x001fccf0 TMP                            C:\Windows\TEMP
+     532 wininit.exe          0x001fccf0 USERNAME                       SYSTEM
+     532 wininit.exe          0x001fccf0 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     532 wininit.exe          0x001fccf0 windir                         C:\Windows
+     560 winlogon.exe         0x00682f88 ALLUSERSPROFILE                C:\ProgramData
+     560 winlogon.exe         0x00682f88 CommonProgramFiles             C:\Program Files\Common Files
+     560 winlogon.exe         0x00682f88 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     560 winlogon.exe         0x00682f88 ComSpec                        C:\Windows\system32\cmd.exe
+     560 winlogon.exe         0x00682f88 FP_NO_HOST_CHECK               NO
+     560 winlogon.exe         0x00682f88 NUMBER_OF_PROCESSORS           1
+     560 winlogon.exe         0x00682f88 OS                             Windows_NT
+     560 winlogon.exe         0x00682f88 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     560 winlogon.exe         0x00682f88 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     560 winlogon.exe         0x00682f88 PROCESSOR_ARCHITECTURE         x86
+     560 winlogon.exe         0x00682f88 PROCESSOR_IDENTIFIER           x86 Family 6 Model 61 Stepping 4, GenuineIntel
+     560 winlogon.exe         0x00682f88 PROCESSOR_LEVEL                6
+     560 winlogon.exe         0x00682f88 PROCESSOR_REVISION             3d04
+     560 winlogon.exe         0x00682f88 ProgramData                    C:\ProgramData
+     560 winlogon.exe         0x00682f88 ProgramFiles                   C:\Program Files
+     560 winlogon.exe         0x00682f88 PUBLIC                         C:\Users\Public
+     560 winlogon.exe         0x00682f88 SystemDrive                    C:
+     560 winlogon.exe         0x00682f88 SystemRoot                     C:\Windows
+     560 winlogon.exe         0x00682f88 TEMP                           C:\Windows\TEMP
+     560 winlogon.exe         0x00682f88 TMP                            C:\Windows\TEMP
+     560 winlogon.exe         0x00682f88 USERNAME                       SYSTEM
+     560 winlogon.exe         0x00682f88 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     560 winlogon.exe         0x00682f88 windir                         C:\Windows
+     608 services.exe         0x002107e8 ALLUSERSPROFILE                C:\ProgramData
+     608 services.exe         0x002107e8 CommonProgramFiles             C:\Program Files\Common Files
+     608 services.exe         0x002107e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     608 services.exe         0x002107e8 ComSpec                        C:\Windows\system32\cmd.exe
+     608 services.exe         0x002107e8 FP_NO_HOST_CHECK               NO
+     608 services.exe         0x002107e8 NUMBER_OF_PROCESSORS           1
+     608 services.exe         0x002107e8 OS                             Windows_NT
+     608 services.exe         0x002107e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     608 services.exe         0x002107e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     608 services.exe         0x002107e8 PROCESSOR_ARCHITECTURE         x86
+     608 services.exe         0x002107e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     608 services.exe         0x002107e8 PROCESSOR_LEVEL                6
+     608 services.exe         0x002107e8 PROCESSOR_REVISION             2a07
+     608 services.exe         0x002107e8 ProgramData                    C:\ProgramData
+     608 services.exe         0x002107e8 ProgramFiles                   C:\Program Files
+     608 services.exe         0x002107e8 PUBLIC                         C:\Users\Public
+     608 services.exe         0x002107e8 SystemDrive                    C:
+     608 services.exe         0x002107e8 SystemRoot                     C:\Windows
+     608 services.exe         0x002107e8 TEMP                           C:\Windows\TEMP
+     608 services.exe         0x002107e8 TMP                            C:\Windows\TEMP
+     608 services.exe         0x002107e8 USERNAME                       SYSTEM
+     608 services.exe         0x002107e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     608 services.exe         0x002107e8 windir                         C:\Windows
+     620 lsass.exe            0x001407e8 ALLUSERSPROFILE                C:\ProgramData
+     620 lsass.exe            0x001407e8 CommonProgramFiles             C:\Program Files\Common Files
+     620 lsass.exe            0x001407e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     620 lsass.exe            0x001407e8 ComSpec                        C:\Windows\system32\cmd.exe
+     620 lsass.exe            0x001407e8 FP_NO_HOST_CHECK               NO
+     620 lsass.exe            0x001407e8 NUMBER_OF_PROCESSORS           1
+     620 lsass.exe            0x001407e8 OS                             Windows_NT
+     620 lsass.exe            0x001407e8 Path                           C:\Windows\System32
+     620 lsass.exe            0x001407e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     620 lsass.exe            0x001407e8 PROCESSOR_ARCHITECTURE         x86
+     620 lsass.exe            0x001407e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     620 lsass.exe            0x001407e8 PROCESSOR_LEVEL                6
+     620 lsass.exe            0x001407e8 PROCESSOR_REVISION             2a07
+     620 lsass.exe            0x001407e8 ProgramData                    C:\ProgramData
+     620 lsass.exe            0x001407e8 ProgramFiles                   C:\Program Files
+     620 lsass.exe            0x001407e8 PUBLIC                         C:\Users\Public
+     620 lsass.exe            0x001407e8 SystemDrive                    C:
+     620 lsass.exe            0x001407e8 SystemRoot                     C:\Windows
+     620 lsass.exe            0x001407e8 TEMP                           C:\Windows\TEMP
+     620 lsass.exe            0x001407e8 TMP                            C:\Windows\TEMP
+     620 lsass.exe            0x001407e8 USERNAME                       SYSTEM
+     620 lsass.exe            0x001407e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     620 lsass.exe            0x001407e8 windir                         C:\Windows
+     628 lsm.exe              0x001a07e8 ALLUSERSPROFILE                C:\ProgramData
+     628 lsm.exe              0x001a07e8 CommonProgramFiles             C:\Program Files\Common Files
+     628 lsm.exe              0x001a07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     628 lsm.exe              0x001a07e8 ComSpec                        C:\Windows\system32\cmd.exe
+     628 lsm.exe              0x001a07e8 FP_NO_HOST_CHECK               NO
+     628 lsm.exe              0x001a07e8 NUMBER_OF_PROCESSORS           1
+     628 lsm.exe              0x001a07e8 OS                             Windows_NT
+     628 lsm.exe              0x001a07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     628 lsm.exe              0x001a07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     628 lsm.exe              0x001a07e8 PROCESSOR_ARCHITECTURE         x86
+     628 lsm.exe              0x001a07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     628 lsm.exe              0x001a07e8 PROCESSOR_LEVEL                6
+     628 lsm.exe              0x001a07e8 PROCESSOR_REVISION             2a07
+     628 lsm.exe              0x001a07e8 ProgramData                    C:\ProgramData
+     628 lsm.exe              0x001a07e8 ProgramFiles                   C:\Program Files
+     628 lsm.exe              0x001a07e8 PUBLIC                         C:\Users\Public
+     628 lsm.exe              0x001a07e8 SystemDrive                    C:
+     628 lsm.exe              0x001a07e8 SystemRoot                     C:\Windows
+     628 lsm.exe              0x001a07e8 TEMP                           C:\Windows\TEMP
+     628 lsm.exe              0x001a07e8 TMP                            C:\Windows\TEMP
+     628 lsm.exe              0x001a07e8 USERNAME                       SYSTEM
+     628 lsm.exe              0x001a07e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     628 lsm.exe              0x001a07e8 windir                         C:\Windows
+     792 svchost.exe          0x002e07e8 ALLUSERSPROFILE                C:\ProgramData
+     792 svchost.exe          0x002e07e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     792 svchost.exe          0x002e07e8 CommonProgramFiles             C:\Program Files\Common Files
+     792 svchost.exe          0x002e07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     792 svchost.exe          0x002e07e8 ComSpec                        C:\Windows\system32\cmd.exe
+     792 svchost.exe          0x002e07e8 FP_NO_HOST_CHECK               NO
+     792 svchost.exe          0x002e07e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     792 svchost.exe          0x002e07e8 NUMBER_OF_PROCESSORS           1
+     792 svchost.exe          0x002e07e8 OS                             Windows_NT
+     792 svchost.exe          0x002e07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     792 svchost.exe          0x002e07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     792 svchost.exe          0x002e07e8 PROCESSOR_ARCHITECTURE         x86
+     792 svchost.exe          0x002e07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     792 svchost.exe          0x002e07e8 PROCESSOR_LEVEL                6
+     792 svchost.exe          0x002e07e8 PROCESSOR_REVISION             2a07
+     792 svchost.exe          0x002e07e8 ProgramData                    C:\ProgramData
+     792 svchost.exe          0x002e07e8 ProgramFiles                   C:\Program Files
+     792 svchost.exe          0x002e07e8 PUBLIC                         C:\Users\Public
+     792 svchost.exe          0x002e07e8 SystemDrive                    C:
+     792 svchost.exe          0x002e07e8 SystemRoot                     C:\Windows
+     792 svchost.exe          0x002e07e8 TEMP                           C:\Windows\TEMP
+     792 svchost.exe          0x002e07e8 TMP                            C:\Windows\TEMP
+     792 svchost.exe          0x002e07e8 USERDOMAIN                     WORKGROUP
+     792 svchost.exe          0x002e07e8 USERNAME                       WIN-L0ZZQ76PMUF$
+     792 svchost.exe          0x002e07e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     792 svchost.exe          0x002e07e8 windir                         C:\Windows
+     836 VBoxService.exe      0x000707e8 ALLUSERSPROFILE                C:\ProgramData
+     836 VBoxService.exe      0x000707e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+     836 VBoxService.exe      0x000707e8 CommonProgramFiles             C:\Program Files\Common Files
+     836 VBoxService.exe      0x000707e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     836 VBoxService.exe      0x000707e8 ComSpec                        C:\Windows\system32\cmd.exe
+     836 VBoxService.exe      0x000707e8 FP_NO_HOST_CHECK               NO
+     836 VBoxService.exe      0x000707e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+     836 VBoxService.exe      0x000707e8 NUMBER_OF_PROCESSORS           1
+     836 VBoxService.exe      0x000707e8 OS                             Windows_NT
+     836 VBoxService.exe      0x000707e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     836 VBoxService.exe      0x000707e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     836 VBoxService.exe      0x000707e8 PROCESSOR_ARCHITECTURE         x86
+     836 VBoxService.exe      0x000707e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     836 VBoxService.exe      0x000707e8 PROCESSOR_LEVEL                6
+     836 VBoxService.exe      0x000707e8 PROCESSOR_REVISION             2a07
+     836 VBoxService.exe      0x000707e8 ProgramData                    C:\ProgramData
+     836 VBoxService.exe      0x000707e8 ProgramFiles                   C:\Program Files
+     836 VBoxService.exe      0x000707e8 PUBLIC                         C:\Users\Public
+     836 VBoxService.exe      0x000707e8 SystemDrive                    C:
+     836 VBoxService.exe      0x000707e8 SystemRoot                     C:\Windows
+     836 VBoxService.exe      0x000707e8 TEMP                           C:\Windows\TEMP
+     836 VBoxService.exe      0x000707e8 TMP                            C:\Windows\TEMP
+     836 VBoxService.exe      0x000707e8 USERDOMAIN                     WORKGROUP
+     836 VBoxService.exe      0x000707e8 USERNAME                       WIN-L0ZZQ76PMUF$
+     836 VBoxService.exe      0x000707e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+     836 VBoxService.exe      0x000707e8 windir                         C:\Windows
+     892 svchost.exe          0x004507e8 ALLUSERSPROFILE                C:\ProgramData
+     892 svchost.exe          0x004507e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+     892 svchost.exe          0x004507e8 CommonProgramFiles             C:\Program Files\Common Files
+     892 svchost.exe          0x004507e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     892 svchost.exe          0x004507e8 ComSpec                        C:\Windows\system32\cmd.exe
+     892 svchost.exe          0x004507e8 FP_NO_HOST_CHECK               NO
+     892 svchost.exe          0x004507e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+     892 svchost.exe          0x004507e8 NUMBER_OF_PROCESSORS           1
+     892 svchost.exe          0x004507e8 OS                             Windows_NT
+     892 svchost.exe          0x004507e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     892 svchost.exe          0x004507e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     892 svchost.exe          0x004507e8 PROCESSOR_ARCHITECTURE         x86
+     892 svchost.exe          0x004507e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     892 svchost.exe          0x004507e8 PROCESSOR_LEVEL                6
+     892 svchost.exe          0x004507e8 PROCESSOR_REVISION             2a07
+     892 svchost.exe          0x004507e8 ProgramData                    C:\ProgramData
+     892 svchost.exe          0x004507e8 ProgramFiles                   C:\Program Files
+     892 svchost.exe          0x004507e8 PUBLIC                         C:\Users\Public
+     892 svchost.exe          0x004507e8 SystemDrive                    C:
+     892 svchost.exe          0x004507e8 SystemRoot                     C:\Windows
+     892 svchost.exe          0x004507e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     892 svchost.exe          0x004507e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+     892 svchost.exe          0x004507e8 USERDOMAIN                     WORKGROUP
+     892 svchost.exe          0x004507e8 USERNAME                       WIN-L0ZZQ76PMUF$
+     892 svchost.exe          0x004507e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+     892 svchost.exe          0x004507e8 windir                         C:\Windows
+     984 svchost.exe          0x000807e8 ALLUSERSPROFILE                C:\ProgramData
+     984 svchost.exe          0x000807e8 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+     984 svchost.exe          0x000807e8 CommonProgramFiles             C:\Program Files\Common Files
+     984 svchost.exe          0x000807e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     984 svchost.exe          0x000807e8 ComSpec                        C:\Windows\system32\cmd.exe
+     984 svchost.exe          0x000807e8 FP_NO_HOST_CHECK               NO
+     984 svchost.exe          0x000807e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+     984 svchost.exe          0x000807e8 NUMBER_OF_PROCESSORS           1
+     984 svchost.exe          0x000807e8 OS                             Windows_NT
+     984 svchost.exe          0x000807e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     984 svchost.exe          0x000807e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     984 svchost.exe          0x000807e8 PROCESSOR_ARCHITECTURE         x86
+     984 svchost.exe          0x000807e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     984 svchost.exe          0x000807e8 PROCESSOR_LEVEL                6
+     984 svchost.exe          0x000807e8 PROCESSOR_REVISION             2a07
+     984 svchost.exe          0x000807e8 ProgramData                    C:\ProgramData
+     984 svchost.exe          0x000807e8 ProgramFiles                   C:\Program Files
+     984 svchost.exe          0x000807e8 PUBLIC                         C:\Users\Public
+     984 svchost.exe          0x000807e8 SystemDrive                    C:
+     984 svchost.exe          0x000807e8 SystemRoot                     C:\Windows
+     984 svchost.exe          0x000807e8 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     984 svchost.exe          0x000807e8 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+     984 svchost.exe          0x000807e8 USERDOMAIN                     NT AUTHORITY
+     984 svchost.exe          0x000807e8 USERNAME                       LOCAL SERVICE
+     984 svchost.exe          0x000807e8 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+     984 svchost.exe          0x000807e8 windir                         C:\Windows
+    1012 svchost.exe          0x003707e8 ALLUSERSPROFILE                C:\ProgramData
+    1012 svchost.exe          0x003707e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1012 svchost.exe          0x003707e8 CommonProgramFiles             C:\Program Files\Common Files
+    1012 svchost.exe          0x003707e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1012 svchost.exe          0x003707e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1012 svchost.exe          0x003707e8 FP_NO_HOST_CHECK               NO
+    1012 svchost.exe          0x003707e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1012 svchost.exe          0x003707e8 NUMBER_OF_PROCESSORS           1
+    1012 svchost.exe          0x003707e8 OS                             Windows_NT
+    1012 svchost.exe          0x003707e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1012 svchost.exe          0x003707e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1012 svchost.exe          0x003707e8 PROCESSOR_ARCHITECTURE         x86
+    1012 svchost.exe          0x003707e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1012 svchost.exe          0x003707e8 PROCESSOR_LEVEL                6
+    1012 svchost.exe          0x003707e8 PROCESSOR_REVISION             2a07
+    1012 svchost.exe          0x003707e8 ProgramData                    C:\ProgramData
+    1012 svchost.exe          0x003707e8 ProgramFiles                   C:\Program Files
+    1012 svchost.exe          0x003707e8 PUBLIC                         C:\Users\Public
+    1012 svchost.exe          0x003707e8 SystemDrive                    C:
+    1012 svchost.exe          0x003707e8 SystemRoot                     C:\Windows
+    1012 svchost.exe          0x003707e8 TEMP                           C:\Windows\TEMP
+    1012 svchost.exe          0x003707e8 TMP                            C:\Windows\TEMP
+    1012 svchost.exe          0x003707e8 USERDOMAIN                     WORKGROUP
+    1012 svchost.exe          0x003707e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1012 svchost.exe          0x003707e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1012 svchost.exe          0x003707e8 windir                         C:\Windows
+    1024 svchost.exe          0x000f07e8 ALLUSERSPROFILE                C:\ProgramData
+    1024 svchost.exe          0x000f07e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1024 svchost.exe          0x000f07e8 CommonProgramFiles             C:\Program Files\Common Files
+    1024 svchost.exe          0x000f07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1024 svchost.exe          0x000f07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1024 svchost.exe          0x000f07e8 FP_NO_HOST_CHECK               NO
+    1024 svchost.exe          0x000f07e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1024 svchost.exe          0x000f07e8 NUMBER_OF_PROCESSORS           1
+    1024 svchost.exe          0x000f07e8 OS                             Windows_NT
+    1024 svchost.exe          0x000f07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1024 svchost.exe          0x000f07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1024 svchost.exe          0x000f07e8 PROCESSOR_ARCHITECTURE         x86
+    1024 svchost.exe          0x000f07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1024 svchost.exe          0x000f07e8 PROCESSOR_LEVEL                6
+    1024 svchost.exe          0x000f07e8 PROCESSOR_REVISION             2a07
+    1024 svchost.exe          0x000f07e8 ProgramData                    C:\ProgramData
+    1024 svchost.exe          0x000f07e8 ProgramFiles                   C:\Program Files
+    1024 svchost.exe          0x000f07e8 PUBLIC                         C:\Users\Public
+    1024 svchost.exe          0x000f07e8 SystemDrive                    C:
+    1024 svchost.exe          0x000f07e8 SystemRoot                     C:\Windows
+    1024 svchost.exe          0x000f07e8 TEMP                           C:\Windows\TEMP
+    1024 svchost.exe          0x000f07e8 TMP                            C:\Windows\TEMP
+    1024 svchost.exe          0x000f07e8 USERDOMAIN                     WORKGROUP
+    1024 svchost.exe          0x000f07e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1024 svchost.exe          0x000f07e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1024 svchost.exe          0x000f07e8 windir                         C:\Windows
+    1040 SLsvc.exe            0x004407e8 ALLUSERSPROFILE                C:\ProgramData
+    1040 SLsvc.exe            0x004407e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1040 SLsvc.exe            0x004407e8 CommonProgramFiles             C:\Program Files\Common Files
+    1040 SLsvc.exe            0x004407e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1040 SLsvc.exe            0x004407e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1040 SLsvc.exe            0x004407e8 FP_NO_HOST_CHECK               NO
+    1040 SLsvc.exe            0x004407e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1040 SLsvc.exe            0x004407e8 NUMBER_OF_PROCESSORS           1
+    1040 SLsvc.exe            0x004407e8 OS                             Windows_NT
+    1040 SLsvc.exe            0x004407e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1040 SLsvc.exe            0x004407e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1040 SLsvc.exe            0x004407e8 PROCESSOR_ARCHITECTURE         x86
+    1040 SLsvc.exe            0x004407e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1040 SLsvc.exe            0x004407e8 PROCESSOR_LEVEL                6
+    1040 SLsvc.exe            0x004407e8 PROCESSOR_REVISION             2a07
+    1040 SLsvc.exe            0x004407e8 ProgramData                    C:\ProgramData
+    1040 SLsvc.exe            0x004407e8 ProgramFiles                   C:\Program Files
+    1040 SLsvc.exe            0x004407e8 PUBLIC                         C:\Users\Public
+    1040 SLsvc.exe            0x004407e8 SystemDrive                    C:
+    1040 SLsvc.exe            0x004407e8 SystemRoot                     C:\Windows
+    1040 SLsvc.exe            0x004407e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1040 SLsvc.exe            0x004407e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1040 SLsvc.exe            0x004407e8 USERDOMAIN                     WORKGROUP
+    1040 SLsvc.exe            0x004407e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1040 SLsvc.exe            0x004407e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1040 SLsvc.exe            0x004407e8 windir                         C:\Windows
+    1108 svchost.exe          0x000a07e8 ALLUSERSPROFILE                C:\ProgramData
+    1108 svchost.exe          0x000a07e8 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1108 svchost.exe          0x000a07e8 CommonProgramFiles             C:\Program Files\Common Files
+    1108 svchost.exe          0x000a07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1108 svchost.exe          0x000a07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1108 svchost.exe          0x000a07e8 FP_NO_HOST_CHECK               NO
+    1108 svchost.exe          0x000a07e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1108 svchost.exe          0x000a07e8 NUMBER_OF_PROCESSORS           1
+    1108 svchost.exe          0x000a07e8 OS                             Windows_NT
+    1108 svchost.exe          0x000a07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1108 svchost.exe          0x000a07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1108 svchost.exe          0x000a07e8 PROCESSOR_ARCHITECTURE         x86
+    1108 svchost.exe          0x000a07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1108 svchost.exe          0x000a07e8 PROCESSOR_LEVEL                6
+    1108 svchost.exe          0x000a07e8 PROCESSOR_REVISION             2a07
+    1108 svchost.exe          0x000a07e8 ProgramData                    C:\ProgramData
+    1108 svchost.exe          0x000a07e8 ProgramFiles                   C:\Program Files
+    1108 svchost.exe          0x000a07e8 PUBLIC                         C:\Users\Public
+    1108 svchost.exe          0x000a07e8 SystemDrive                    C:
+    1108 svchost.exe          0x000a07e8 SystemRoot                     C:\Windows
+    1108 svchost.exe          0x000a07e8 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1108 svchost.exe          0x000a07e8 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1108 svchost.exe          0x000a07e8 USERDOMAIN                     NT AUTHORITY
+    1108 svchost.exe          0x000a07e8 USERNAME                       LOCAL SERVICE
+    1108 svchost.exe          0x000a07e8 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1108 svchost.exe          0x000a07e8 windir                         C:\Windows
+    1176 svchost.exe          0x002607e8 ALLUSERSPROFILE                C:\ProgramData
+    1176 svchost.exe          0x002607e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1176 svchost.exe          0x002607e8 CommonProgramFiles             C:\Program Files\Common Files
+    1176 svchost.exe          0x002607e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1176 svchost.exe          0x002607e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1176 svchost.exe          0x002607e8 FP_NO_HOST_CHECK               NO
+    1176 svchost.exe          0x002607e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1176 svchost.exe          0x002607e8 NUMBER_OF_PROCESSORS           1
+    1176 svchost.exe          0x002607e8 OS                             Windows_NT
+    1176 svchost.exe          0x002607e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1176 svchost.exe          0x002607e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1176 svchost.exe          0x002607e8 PROCESSOR_ARCHITECTURE         x86
+    1176 svchost.exe          0x002607e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1176 svchost.exe          0x002607e8 PROCESSOR_LEVEL                6
+    1176 svchost.exe          0x002607e8 PROCESSOR_REVISION             2a07
+    1176 svchost.exe          0x002607e8 ProgramData                    C:\ProgramData
+    1176 svchost.exe          0x002607e8 ProgramFiles                   C:\Program Files
+    1176 svchost.exe          0x002607e8 PUBLIC                         C:\Users\Public
+    1176 svchost.exe          0x002607e8 SystemDrive                    C:
+    1176 svchost.exe          0x002607e8 SystemRoot                     C:\Windows
+    1176 svchost.exe          0x002607e8 TEMP                           C:\Windows\TEMP
+    1176 svchost.exe          0x002607e8 TMP                            C:\Windows\TEMP
+    1176 svchost.exe          0x002607e8 USERDOMAIN                     WORKGROUP
+    1176 svchost.exe          0x002607e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1176 svchost.exe          0x002607e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1176 svchost.exe          0x002607e8 windir                         C:\Windows
+    1204 svchost.exe          0x004007e8 ALLUSERSPROFILE                C:\ProgramData
+    1204 svchost.exe          0x004007e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1204 svchost.exe          0x004007e8 CommonProgramFiles             C:\Program Files\Common Files
+    1204 svchost.exe          0x004007e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1204 svchost.exe          0x004007e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1204 svchost.exe          0x004007e8 FP_NO_HOST_CHECK               NO
+    1204 svchost.exe          0x004007e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1204 svchost.exe          0x004007e8 NUMBER_OF_PROCESSORS           1
+    1204 svchost.exe          0x004007e8 OS                             Windows_NT
+    1204 svchost.exe          0x004007e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1204 svchost.exe          0x004007e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1204 svchost.exe          0x004007e8 PROCESSOR_ARCHITECTURE         x86
+    1204 svchost.exe          0x004007e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1204 svchost.exe          0x004007e8 PROCESSOR_LEVEL                6
+    1204 svchost.exe          0x004007e8 PROCESSOR_REVISION             2a07
+    1204 svchost.exe          0x004007e8 ProgramData                    C:\ProgramData
+    1204 svchost.exe          0x004007e8 ProgramFiles                   C:\Program Files
+    1204 svchost.exe          0x004007e8 PUBLIC                         C:\Users\Public
+    1204 svchost.exe          0x004007e8 SystemDrive                    C:
+    1204 svchost.exe          0x004007e8 SystemRoot                     C:\Windows
+    1204 svchost.exe          0x004007e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1204 svchost.exe          0x004007e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1204 svchost.exe          0x004007e8 USERDOMAIN                     WORKGROUP
+    1204 svchost.exe          0x004007e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1204 svchost.exe          0x004007e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1204 svchost.exe          0x004007e8 windir                         C:\Windows
+    1352 svchost.exe          0x003507e8 ALLUSERSPROFILE                C:\ProgramData
+    1352 svchost.exe          0x003507e8 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1352 svchost.exe          0x003507e8 CommonProgramFiles             C:\Program Files\Common Files
+    1352 svchost.exe          0x003507e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1352 svchost.exe          0x003507e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1352 svchost.exe          0x003507e8 FP_NO_HOST_CHECK               NO
+    1352 svchost.exe          0x003507e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1352 svchost.exe          0x003507e8 NUMBER_OF_PROCESSORS           1
+    1352 svchost.exe          0x003507e8 OS                             Windows_NT
+    1352 svchost.exe          0x003507e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1352 svchost.exe          0x003507e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1352 svchost.exe          0x003507e8 PROCESSOR_ARCHITECTURE         x86
+    1352 svchost.exe          0x003507e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1352 svchost.exe          0x003507e8 PROCESSOR_LEVEL                6
+    1352 svchost.exe          0x003507e8 PROCESSOR_REVISION             2a07
+    1352 svchost.exe          0x003507e8 ProgramData                    C:\ProgramData
+    1352 svchost.exe          0x003507e8 ProgramFiles                   C:\Program Files
+    1352 svchost.exe          0x003507e8 PUBLIC                         C:\Users\Public
+    1352 svchost.exe          0x003507e8 SystemDrive                    C:
+    1352 svchost.exe          0x003507e8 SystemRoot                     C:\Windows
+    1352 svchost.exe          0x003507e8 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1352 svchost.exe          0x003507e8 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1352 svchost.exe          0x003507e8 USERDOMAIN                     NT AUTHORITY
+    1352 svchost.exe          0x003507e8 USERNAME                       LOCAL SERVICE
+    1352 svchost.exe          0x003507e8 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1352 svchost.exe          0x003507e8 windir                         C:\Windows
+    1476 spoolsv.exe          0x003507e8 ALLUSERSPROFILE                C:\ProgramData
+    1476 spoolsv.exe          0x003507e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1476 spoolsv.exe          0x003507e8 CommonProgramFiles             C:\Program Files\Common Files
+    1476 spoolsv.exe          0x003507e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1476 spoolsv.exe          0x003507e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1476 spoolsv.exe          0x003507e8 FP_NO_HOST_CHECK               NO
+    1476 spoolsv.exe          0x003507e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1476 spoolsv.exe          0x003507e8 NUMBER_OF_PROCESSORS           1
+    1476 spoolsv.exe          0x003507e8 OS                             Windows_NT
+    1476 spoolsv.exe          0x003507e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1476 spoolsv.exe          0x003507e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1476 spoolsv.exe          0x003507e8 PROCESSOR_ARCHITECTURE         x86
+    1476 spoolsv.exe          0x003507e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1476 spoolsv.exe          0x003507e8 PROCESSOR_LEVEL                6
+    1476 spoolsv.exe          0x003507e8 PROCESSOR_REVISION             2a07
+    1476 spoolsv.exe          0x003507e8 ProgramData                    C:\ProgramData
+    1476 spoolsv.exe          0x003507e8 ProgramFiles                   C:\Program Files
+    1476 spoolsv.exe          0x003507e8 PUBLIC                         C:\Users\Public
+    1476 spoolsv.exe          0x003507e8 SystemDrive                    C:
+    1476 spoolsv.exe          0x003507e8 SystemRoot                     C:\Windows
+    1476 spoolsv.exe          0x003507e8 TEMP                           C:\Windows\TEMP
+    1476 spoolsv.exe          0x003507e8 TMP                            C:\Windows\TEMP
+    1476 spoolsv.exe          0x003507e8 USERDOMAIN                     WORKGROUP
+    1476 spoolsv.exe          0x003507e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1476 spoolsv.exe          0x003507e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1476 spoolsv.exe          0x003507e8 windir                         C:\Windows
+    1512 svchost.exe          0x003707e8 ALLUSERSPROFILE                C:\ProgramData
+    1512 svchost.exe          0x003707e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1512 svchost.exe          0x003707e8 CommonProgramFiles             C:\Program Files\Common Files
+    1512 svchost.exe          0x003707e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1512 svchost.exe          0x003707e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1512 svchost.exe          0x003707e8 FP_NO_HOST_CHECK               NO
+    1512 svchost.exe          0x003707e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1512 svchost.exe          0x003707e8 NUMBER_OF_PROCESSORS           1
+    1512 svchost.exe          0x003707e8 OS                             Windows_NT
+    1512 svchost.exe          0x003707e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1512 svchost.exe          0x003707e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1512 svchost.exe          0x003707e8 PROCESSOR_ARCHITECTURE         x86
+    1512 svchost.exe          0x003707e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1512 svchost.exe          0x003707e8 PROCESSOR_LEVEL                6
+    1512 svchost.exe          0x003707e8 PROCESSOR_REVISION             2a07
+    1512 svchost.exe          0x003707e8 ProgramData                    C:\ProgramData
+    1512 svchost.exe          0x003707e8 ProgramFiles                   C:\Program Files
+    1512 svchost.exe          0x003707e8 PUBLIC                         C:\Users\Public
+    1512 svchost.exe          0x003707e8 SystemDrive                    C:
+    1512 svchost.exe          0x003707e8 SystemRoot                     C:\Windows
+    1512 svchost.exe          0x003707e8 TEMP                           C:\Windows\TEMP
+    1512 svchost.exe          0x003707e8 TMP                            C:\Windows\TEMP
+    1512 svchost.exe          0x003707e8 USERDOMAIN                     WORKGROUP
+    1512 svchost.exe          0x003707e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1512 svchost.exe          0x003707e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1512 svchost.exe          0x003707e8 windir                         C:\Windows
+    1556 svchost.exe          0x003307e8 ALLUSERSPROFILE                C:\ProgramData
+    1556 svchost.exe          0x003307e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    1556 svchost.exe          0x003307e8 CommonProgramFiles             C:\Program Files\Common Files
+    1556 svchost.exe          0x003307e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1556 svchost.exe          0x003307e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1556 svchost.exe          0x003307e8 FP_NO_HOST_CHECK               NO
+    1556 svchost.exe          0x003307e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    1556 svchost.exe          0x003307e8 NUMBER_OF_PROCESSORS           1
+    1556 svchost.exe          0x003307e8 OS                             Windows_NT
+    1556 svchost.exe          0x003307e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1556 svchost.exe          0x003307e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1556 svchost.exe          0x003307e8 PROCESSOR_ARCHITECTURE         x86
+    1556 svchost.exe          0x003307e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1556 svchost.exe          0x003307e8 PROCESSOR_LEVEL                6
+    1556 svchost.exe          0x003307e8 PROCESSOR_REVISION             2a07
+    1556 svchost.exe          0x003307e8 ProgramData                    C:\ProgramData
+    1556 svchost.exe          0x003307e8 ProgramFiles                   C:\Program Files
+    1556 svchost.exe          0x003307e8 PUBLIC                         C:\Users\Public
+    1556 svchost.exe          0x003307e8 SystemDrive                    C:
+    1556 svchost.exe          0x003307e8 SystemRoot                     C:\Windows
+    1556 svchost.exe          0x003307e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1556 svchost.exe          0x003307e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    1556 svchost.exe          0x003307e8 USERDOMAIN                     WORKGROUP
+    1556 svchost.exe          0x003307e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1556 svchost.exe          0x003307e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    1556 svchost.exe          0x003307e8 windir                         C:\Windows
+    1568 svchost.exe          0x003f07e8 ALLUSERSPROFILE                C:\ProgramData
+    1568 svchost.exe          0x003f07e8 APPDATA                        C:\Windows\ServiceProfiles\LocalService\AppData\Roaming
+    1568 svchost.exe          0x003f07e8 CommonProgramFiles             C:\Program Files\Common Files
+    1568 svchost.exe          0x003f07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1568 svchost.exe          0x003f07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1568 svchost.exe          0x003f07e8 FP_NO_HOST_CHECK               NO
+    1568 svchost.exe          0x003f07e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\LocalService\AppData\Local
+    1568 svchost.exe          0x003f07e8 NUMBER_OF_PROCESSORS           1
+    1568 svchost.exe          0x003f07e8 OS                             Windows_NT
+    1568 svchost.exe          0x003f07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1568 svchost.exe          0x003f07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1568 svchost.exe          0x003f07e8 PROCESSOR_ARCHITECTURE         x86
+    1568 svchost.exe          0x003f07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1568 svchost.exe          0x003f07e8 PROCESSOR_LEVEL                6
+    1568 svchost.exe          0x003f07e8 PROCESSOR_REVISION             2a07
+    1568 svchost.exe          0x003f07e8 ProgramData                    C:\ProgramData
+    1568 svchost.exe          0x003f07e8 ProgramFiles                   C:\Program Files
+    1568 svchost.exe          0x003f07e8 PUBLIC                         C:\Users\Public
+    1568 svchost.exe          0x003f07e8 SystemDrive                    C:
+    1568 svchost.exe          0x003f07e8 SystemRoot                     C:\Windows
+    1568 svchost.exe          0x003f07e8 TEMP                           C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1568 svchost.exe          0x003f07e8 TMP                            C:\Windows\SERVIC~2\LOCALS~1\AppData\Local\Temp
+    1568 svchost.exe          0x003f07e8 USERDOMAIN                     NT AUTHORITY
+    1568 svchost.exe          0x003f07e8 USERNAME                       LOCAL SERVICE
+    1568 svchost.exe          0x003f07e8 USERPROFILE                    C:\Windows\ServiceProfiles\LocalService
+    1568 svchost.exe          0x003f07e8 windir                         C:\Windows
+    1680 svchost.exe          0x003207e8 ALLUSERSPROFILE                C:\ProgramData
+    1680 svchost.exe          0x003207e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1680 svchost.exe          0x003207e8 CommonProgramFiles             C:\Program Files\Common Files
+    1680 svchost.exe          0x003207e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1680 svchost.exe          0x003207e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1680 svchost.exe          0x003207e8 FP_NO_HOST_CHECK               NO
+    1680 svchost.exe          0x003207e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1680 svchost.exe          0x003207e8 NUMBER_OF_PROCESSORS           1
+    1680 svchost.exe          0x003207e8 OS                             Windows_NT
+    1680 svchost.exe          0x003207e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1680 svchost.exe          0x003207e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1680 svchost.exe          0x003207e8 PROCESSOR_ARCHITECTURE         x86
+    1680 svchost.exe          0x003207e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1680 svchost.exe          0x003207e8 PROCESSOR_LEVEL                6
+    1680 svchost.exe          0x003207e8 PROCESSOR_REVISION             2a07
+    1680 svchost.exe          0x003207e8 ProgramData                    C:\ProgramData
+    1680 svchost.exe          0x003207e8 ProgramFiles                   C:\Program Files
+    1680 svchost.exe          0x003207e8 PUBLIC                         C:\Users\Public
+    1680 svchost.exe          0x003207e8 SystemDrive                    C:
+    1680 svchost.exe          0x003207e8 SystemRoot                     C:\Windows
+    1680 svchost.exe          0x003207e8 TEMP                           C:\Windows\TEMP
+    1680 svchost.exe          0x003207e8 TMP                            C:\Windows\TEMP
+    1680 svchost.exe          0x003207e8 USERDOMAIN                     WORKGROUP
+    1680 svchost.exe          0x003207e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1680 svchost.exe          0x003207e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1680 svchost.exe          0x003207e8 windir                         C:\Windows
+    1984 taskeng.exe          0x001607e8 ALLUSERSPROFILE                C:\ProgramData
+    1984 taskeng.exe          0x001607e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    1984 taskeng.exe          0x001607e8 CommonProgramFiles             C:\Program Files\Common Files
+    1984 taskeng.exe          0x001607e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1984 taskeng.exe          0x001607e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1984 taskeng.exe          0x001607e8 FP_NO_HOST_CHECK               NO
+    1984 taskeng.exe          0x001607e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    1984 taskeng.exe          0x001607e8 NUMBER_OF_PROCESSORS           1
+    1984 taskeng.exe          0x001607e8 OS                             Windows_NT
+    1984 taskeng.exe          0x001607e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1984 taskeng.exe          0x001607e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1984 taskeng.exe          0x001607e8 PROCESSOR_ARCHITECTURE         x86
+    1984 taskeng.exe          0x001607e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1984 taskeng.exe          0x001607e8 PROCESSOR_LEVEL                6
+    1984 taskeng.exe          0x001607e8 PROCESSOR_REVISION             2a07
+    1984 taskeng.exe          0x001607e8 ProgramData                    C:\ProgramData
+    1984 taskeng.exe          0x001607e8 ProgramFiles                   C:\Program Files
+    1984 taskeng.exe          0x001607e8 PUBLIC                         C:\Users\Public
+    1984 taskeng.exe          0x001607e8 SystemDrive                    C:
+    1984 taskeng.exe          0x001607e8 SystemRoot                     C:\Windows
+    1984 taskeng.exe          0x001607e8 TEMP                           C:\Windows\TEMP
+    1984 taskeng.exe          0x001607e8 TMP                            C:\Windows\TEMP
+    1984 taskeng.exe          0x001607e8 USERDOMAIN                     WORKGROUP
+    1984 taskeng.exe          0x001607e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    1984 taskeng.exe          0x001607e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    1984 taskeng.exe          0x001607e8 windir                         C:\Windows
+    1444 taskeng.exe          0x002007e8 ALLUSERSPROFILE                C:\ProgramData
+    1444 taskeng.exe          0x002007e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    1444 taskeng.exe          0x002007e8 CommonProgramFiles             C:\Program Files\Common Files
+    1444 taskeng.exe          0x002007e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1444 taskeng.exe          0x002007e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1444 taskeng.exe          0x002007e8 FP_NO_HOST_CHECK               NO
+    1444 taskeng.exe          0x002007e8 HOMEDRIVE                      C:
+    1444 taskeng.exe          0x002007e8 HOMEPATH                       \Users\Administrator
+    1444 taskeng.exe          0x002007e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    1444 taskeng.exe          0x002007e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    1444 taskeng.exe          0x002007e8 NUMBER_OF_PROCESSORS           1
+    1444 taskeng.exe          0x002007e8 OS                             Windows_NT
+    1444 taskeng.exe          0x002007e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1444 taskeng.exe          0x002007e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1444 taskeng.exe          0x002007e8 PROCESSOR_ARCHITECTURE         x86
+    1444 taskeng.exe          0x002007e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1444 taskeng.exe          0x002007e8 PROCESSOR_LEVEL                6
+    1444 taskeng.exe          0x002007e8 PROCESSOR_REVISION             2a07
+    1444 taskeng.exe          0x002007e8 ProgramData                    C:\ProgramData
+    1444 taskeng.exe          0x002007e8 ProgramFiles                   C:\Program Files
+    1444 taskeng.exe          0x002007e8 PUBLIC                         C:\Users\Public
+    1444 taskeng.exe          0x002007e8 SystemDrive                    C:
+    1444 taskeng.exe          0x002007e8 SystemRoot                     C:\Windows
+    1444 taskeng.exe          0x002007e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    1444 taskeng.exe          0x002007e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    1444 taskeng.exe          0x002007e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    1444 taskeng.exe          0x002007e8 USERNAME                       Administrator
+    1444 taskeng.exe          0x002007e8 USERPROFILE                    C:\Users\Administrator
+    1444 taskeng.exe          0x002007e8 windir                         C:\Windows
+    1688 dwm.exe              0x001c07e8 ALLUSERSPROFILE                C:\ProgramData
+    1688 dwm.exe              0x001c07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    1688 dwm.exe              0x001c07e8 CommonProgramFiles             C:\Program Files\Common Files
+    1688 dwm.exe              0x001c07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1688 dwm.exe              0x001c07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1688 dwm.exe              0x001c07e8 FP_NO_HOST_CHECK               NO
+    1688 dwm.exe              0x001c07e8 HOMEDRIVE                      C:
+    1688 dwm.exe              0x001c07e8 HOMEPATH                       \Users\Administrator
+    1688 dwm.exe              0x001c07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    1688 dwm.exe              0x001c07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    1688 dwm.exe              0x001c07e8 NUMBER_OF_PROCESSORS           1
+    1688 dwm.exe              0x001c07e8 OS                             Windows_NT
+    1688 dwm.exe              0x001c07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1688 dwm.exe              0x001c07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1688 dwm.exe              0x001c07e8 PROCESSOR_ARCHITECTURE         x86
+    1688 dwm.exe              0x001c07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1688 dwm.exe              0x001c07e8 PROCESSOR_LEVEL                6
+    1688 dwm.exe              0x001c07e8 PROCESSOR_REVISION             2a07
+    1688 dwm.exe              0x001c07e8 ProgramData                    C:\ProgramData
+    1688 dwm.exe              0x001c07e8 ProgramFiles                   C:\Program Files
+    1688 dwm.exe              0x001c07e8 PUBLIC                         C:\Users\Public
+    1688 dwm.exe              0x001c07e8 SystemDrive                    C:
+    1688 dwm.exe              0x001c07e8 SystemRoot                     C:\Windows
+    1688 dwm.exe              0x001c07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    1688 dwm.exe              0x001c07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    1688 dwm.exe              0x001c07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    1688 dwm.exe              0x001c07e8 USERNAME                       Administrator
+    1688 dwm.exe              0x001c07e8 USERPROFILE                    C:\Users\Administrator
+    1688 dwm.exe              0x001c07e8 windir                         C:\Windows
+     816 explorer.exe         0x07189a88 ALLUSERSPROFILE                C:\ProgramData
+     816 explorer.exe         0x07189a88 APPDATA                        C:\Users\Administrator\AppData\Roaming
+     816 explorer.exe         0x07189a88 CommonProgramFiles             C:\Program Files\Common Files
+     816 explorer.exe         0x07189a88 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     816 explorer.exe         0x07189a88 ComSpec                        C:\Windows\system32\cmd.exe
+     816 explorer.exe         0x07189a88 FP_NO_HOST_CHECK               NO
+     816 explorer.exe         0x07189a88 HOMEDRIVE                      C:
+     816 explorer.exe         0x07189a88 HOMEPATH                       \Users\Administrator
+     816 explorer.exe         0x07189a88 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+     816 explorer.exe         0x07189a88 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+     816 explorer.exe         0x07189a88 NUMBER_OF_PROCESSORS           1
+     816 explorer.exe         0x07189a88 OS                             Windows_NT
+     816 explorer.exe         0x07189a88 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     816 explorer.exe         0x07189a88 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     816 explorer.exe         0x07189a88 PROCESSOR_ARCHITECTURE         x86
+     816 explorer.exe         0x07189a88 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     816 explorer.exe         0x07189a88 PROCESSOR_LEVEL                6
+     816 explorer.exe         0x07189a88 PROCESSOR_REVISION             2a07
+     816 explorer.exe         0x07189a88 ProgramData                    C:\ProgramData
+     816 explorer.exe         0x07189a88 ProgramFiles                   C:\Program Files
+     816 explorer.exe         0x07189a88 PUBLIC                         C:\Users\Public
+     816 explorer.exe         0x07189a88 SESSIONNAME                    Console
+     816 explorer.exe         0x07189a88 SystemDrive                    C:
+     816 explorer.exe         0x07189a88 SystemRoot                     C:\Windows
+     816 explorer.exe         0x07189a88 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+     816 explorer.exe         0x07189a88 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+     816 explorer.exe         0x07189a88 USERDOMAIN                     WIN-L0ZZQ76PMUF
+     816 explorer.exe         0x07189a88 USERNAME                       Administrator
+     816 explorer.exe         0x07189a88 USERPROFILE                    C:\Users\Administrator
+     816 explorer.exe         0x07189a88 windir                         C:\Windows
+    1816 VBoxTray.exe         0x001e07e8 ALLUSERSPROFILE                C:\ProgramData
+    1816 VBoxTray.exe         0x001e07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    1816 VBoxTray.exe         0x001e07e8 CommonProgramFiles             C:\Program Files\Common Files
+    1816 VBoxTray.exe         0x001e07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1816 VBoxTray.exe         0x001e07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    1816 VBoxTray.exe         0x001e07e8 FP_NO_HOST_CHECK               NO
+    1816 VBoxTray.exe         0x001e07e8 HOMEDRIVE                      C:
+    1816 VBoxTray.exe         0x001e07e8 HOMEPATH                       \Users\Administrator
+    1816 VBoxTray.exe         0x001e07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    1816 VBoxTray.exe         0x001e07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    1816 VBoxTray.exe         0x001e07e8 NUMBER_OF_PROCESSORS           1
+    1816 VBoxTray.exe         0x001e07e8 OS                             Windows_NT
+    1816 VBoxTray.exe         0x001e07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1816 VBoxTray.exe         0x001e07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1816 VBoxTray.exe         0x001e07e8 PROCESSOR_ARCHITECTURE         x86
+    1816 VBoxTray.exe         0x001e07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1816 VBoxTray.exe         0x001e07e8 PROCESSOR_LEVEL                6
+    1816 VBoxTray.exe         0x001e07e8 PROCESSOR_REVISION             2a07
+    1816 VBoxTray.exe         0x001e07e8 ProgramData                    C:\ProgramData
+    1816 VBoxTray.exe         0x001e07e8 ProgramFiles                   C:\Program Files
+    1816 VBoxTray.exe         0x001e07e8 PUBLIC                         C:\Users\Public
+    1816 VBoxTray.exe         0x001e07e8 SESSIONNAME                    Console
+    1816 VBoxTray.exe         0x001e07e8 SystemDrive                    C:
+    1816 VBoxTray.exe         0x001e07e8 SystemRoot                     C:\Windows
+    1816 VBoxTray.exe         0x001e07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    1816 VBoxTray.exe         0x001e07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    1816 VBoxTray.exe         0x001e07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    1816 VBoxTray.exe         0x001e07e8 USERNAME                       Administrator
+    1816 VBoxTray.exe         0x001e07e8 USERPROFILE                    C:\Users\Administrator
+    1816 VBoxTray.exe         0x001e07e8 windir                         C:\Windows
+     612 cmd.exe              0x00280d90 ALLUSERSPROFILE                C:\ProgramData
+     612 cmd.exe              0x00280d90 APPDATA                        C:\Users\Administrator\AppData\Roaming
+     612 cmd.exe              0x00280d90 CommonProgramFiles             C:\Program Files\Common Files
+     612 cmd.exe              0x00280d90 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+     612 cmd.exe              0x00280d90 ComSpec                        C:\Windows\system32\cmd.exe
+     612 cmd.exe              0x00280d90 FP_NO_HOST_CHECK               NO
+     612 cmd.exe              0x00280d90 HOMEDRIVE                      C:
+     612 cmd.exe              0x00280d90 HOMEPATH                       \Users\Administrator
+     612 cmd.exe              0x00280d90 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+     612 cmd.exe              0x00280d90 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+     612 cmd.exe              0x00280d90 NUMBER_OF_PROCESSORS           1
+     612 cmd.exe              0x00280d90 OS                             Windows_NT
+     612 cmd.exe              0x00280d90 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+     612 cmd.exe              0x00280d90 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+     612 cmd.exe              0x00280d90 PROCESSOR_ARCHITECTURE         x86
+     612 cmd.exe              0x00280d90 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+     612 cmd.exe              0x00280d90 PROCESSOR_LEVEL                6
+     612 cmd.exe              0x00280d90 PROCESSOR_REVISION             2a07
+     612 cmd.exe              0x00280d90 ProgramData                    C:\ProgramData
+     612 cmd.exe              0x00280d90 ProgramFiles                   C:\Program Files
+     612 cmd.exe              0x00280d90 PROMPT                         $P$G
+     612 cmd.exe              0x00280d90 PUBLIC                         C:\Users\Public
+     612 cmd.exe              0x00280d90 SESSIONNAME                    Console
+     612 cmd.exe              0x00280d90 SystemDrive                    C:
+     612 cmd.exe              0x00280d90 SystemRoot                     C:\Windows
+     612 cmd.exe              0x00280d90 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+     612 cmd.exe              0x00280d90 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+     612 cmd.exe              0x00280d90 USERDOMAIN                     WIN-L0ZZQ76PMUF
+     612 cmd.exe              0x00280d90 USERNAME                       Administrator
+     612 cmd.exe              0x00280d90 USERPROFILE                    C:\Users\Administrator
+     612 cmd.exe              0x00280d90 windir                         C:\Windows
+    2424 svchost.exe          0x002b07e8 ALLUSERSPROFILE                C:\ProgramData
+    2424 svchost.exe          0x002b07e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    2424 svchost.exe          0x002b07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2424 svchost.exe          0x002b07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2424 svchost.exe          0x002b07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2424 svchost.exe          0x002b07e8 FP_NO_HOST_CHECK               NO
+    2424 svchost.exe          0x002b07e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    2424 svchost.exe          0x002b07e8 NUMBER_OF_PROCESSORS           1
+    2424 svchost.exe          0x002b07e8 OS                             Windows_NT
+    2424 svchost.exe          0x002b07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2424 svchost.exe          0x002b07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2424 svchost.exe          0x002b07e8 PROCESSOR_ARCHITECTURE         x86
+    2424 svchost.exe          0x002b07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2424 svchost.exe          0x002b07e8 PROCESSOR_LEVEL                6
+    2424 svchost.exe          0x002b07e8 PROCESSOR_REVISION             2a07
+    2424 svchost.exe          0x002b07e8 ProgramData                    C:\ProgramData
+    2424 svchost.exe          0x002b07e8 ProgramFiles                   C:\Program Files
+    2424 svchost.exe          0x002b07e8 PUBLIC                         C:\Users\Public
+    2424 svchost.exe          0x002b07e8 SystemDrive                    C:
+    2424 svchost.exe          0x002b07e8 SystemRoot                     C:\Windows
+    2424 svchost.exe          0x002b07e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2424 svchost.exe          0x002b07e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2424 svchost.exe          0x002b07e8 USERDOMAIN                     WORKGROUP
+    2424 svchost.exe          0x002b07e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    2424 svchost.exe          0x002b07e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    2424 svchost.exe          0x002b07e8 windir                         C:\Windows
+    2620 msdtc.exe            0x002407e8 ALLUSERSPROFILE                C:\ProgramData
+    2620 msdtc.exe            0x002407e8 APPDATA                        C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming
+    2620 msdtc.exe            0x002407e8 CommonProgramFiles             C:\Program Files\Common Files
+    2620 msdtc.exe            0x002407e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2620 msdtc.exe            0x002407e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2620 msdtc.exe            0x002407e8 FP_NO_HOST_CHECK               NO
+    2620 msdtc.exe            0x002407e8 LOCALAPPDATA                   C:\Windows\ServiceProfiles\NetworkService\AppData\Local
+    2620 msdtc.exe            0x002407e8 NUMBER_OF_PROCESSORS           1
+    2620 msdtc.exe            0x002407e8 OS                             Windows_NT
+    2620 msdtc.exe            0x002407e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2620 msdtc.exe            0x002407e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2620 msdtc.exe            0x002407e8 PROCESSOR_ARCHITECTURE         x86
+    2620 msdtc.exe            0x002407e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2620 msdtc.exe            0x002407e8 PROCESSOR_LEVEL                6
+    2620 msdtc.exe            0x002407e8 PROCESSOR_REVISION             2a07
+    2620 msdtc.exe            0x002407e8 ProgramData                    C:\ProgramData
+    2620 msdtc.exe            0x002407e8 ProgramFiles                   C:\Program Files
+    2620 msdtc.exe            0x002407e8 PUBLIC                         C:\Users\Public
+    2620 msdtc.exe            0x002407e8 SystemDrive                    C:
+    2620 msdtc.exe            0x002407e8 SystemRoot                     C:\Windows
+    2620 msdtc.exe            0x002407e8 TEMP                           C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2620 msdtc.exe            0x002407e8 TMP                            C:\Windows\SERVIC~2\NETWOR~1\AppData\Local\Temp
+    2620 msdtc.exe            0x002407e8 USERDOMAIN                     WORKGROUP
+    2620 msdtc.exe            0x002407e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    2620 msdtc.exe            0x002407e8 USERPROFILE                    C:\Windows\ServiceProfiles\NetworkService
+    2620 msdtc.exe            0x002407e8 windir                         C:\Windows
+    2768 xampp-control.e      0x002a07e8 ALLUSERSPROFILE                C:\ProgramData
+    2768 xampp-control.e      0x002a07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2768 xampp-control.e      0x002a07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2768 xampp-control.e      0x002a07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2768 xampp-control.e      0x002a07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2768 xampp-control.e      0x002a07e8 FP_NO_HOST_CHECK               NO
+    2768 xampp-control.e      0x002a07e8 HOMEDRIVE                      C:
+    2768 xampp-control.e      0x002a07e8 HOMEPATH                       \Users\Administrator
+    2768 xampp-control.e      0x002a07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2768 xampp-control.e      0x002a07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2768 xampp-control.e      0x002a07e8 NUMBER_OF_PROCESSORS           1
+    2768 xampp-control.e      0x002a07e8 OS                             Windows_NT
+    2768 xampp-control.e      0x002a07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2768 xampp-control.e      0x002a07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2768 xampp-control.e      0x002a07e8 PROCESSOR_ARCHITECTURE         x86
+    2768 xampp-control.e      0x002a07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2768 xampp-control.e      0x002a07e8 PROCESSOR_LEVEL                6
+    2768 xampp-control.e      0x002a07e8 PROCESSOR_REVISION             2a07
+    2768 xampp-control.e      0x002a07e8 ProgramData                    C:\ProgramData
+    2768 xampp-control.e      0x002a07e8 ProgramFiles                   C:\Program Files
+    2768 xampp-control.e      0x002a07e8 PUBLIC                         C:\Users\Public
+    2768 xampp-control.e      0x002a07e8 SESSIONNAME                    Console
+    2768 xampp-control.e      0x002a07e8 SystemDrive                    C:
+    2768 xampp-control.e      0x002a07e8 SystemRoot                     C:\Windows
+    2768 xampp-control.e      0x002a07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2768 xampp-control.e      0x002a07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2768 xampp-control.e      0x002a07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2768 xampp-control.e      0x002a07e8 USERNAME                       Administrator
+    2768 xampp-control.e      0x002a07e8 USERPROFILE                    C:\Users\Administrator
+    2768 xampp-control.e      0x002a07e8 windir                         C:\Windows
+    2796 httpd.exe            0x001b07e8 ALLUSERSPROFILE                C:\ProgramData
+    2796 httpd.exe            0x001b07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2796 httpd.exe            0x001b07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2796 httpd.exe            0x001b07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2796 httpd.exe            0x001b07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2796 httpd.exe            0x001b07e8 FP_NO_HOST_CHECK               NO
+    2796 httpd.exe            0x001b07e8 HOMEDRIVE                      C:
+    2796 httpd.exe            0x001b07e8 HOMEPATH                       \Users\Administrator
+    2796 httpd.exe            0x001b07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2796 httpd.exe            0x001b07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2796 httpd.exe            0x001b07e8 NUMBER_OF_PROCESSORS           1
+    2796 httpd.exe            0x001b07e8 OS                             Windows_NT
+    2796 httpd.exe            0x001b07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2796 httpd.exe            0x001b07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2796 httpd.exe            0x001b07e8 PROCESSOR_ARCHITECTURE         x86
+    2796 httpd.exe            0x001b07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2796 httpd.exe            0x001b07e8 PROCESSOR_LEVEL                6
+    2796 httpd.exe            0x001b07e8 PROCESSOR_REVISION             2a07
+    2796 httpd.exe            0x001b07e8 ProgramData                    C:\ProgramData
+    2796 httpd.exe            0x001b07e8 ProgramFiles                   C:\Program Files
+    2796 httpd.exe            0x001b07e8 PUBLIC                         C:\Users\Public
+    2796 httpd.exe            0x001b07e8 SESSIONNAME                    Console
+    2796 httpd.exe            0x001b07e8 SystemDrive                    C:
+    2796 httpd.exe            0x001b07e8 SystemRoot                     C:\Windows
+    2796 httpd.exe            0x001b07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2796 httpd.exe            0x001b07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2796 httpd.exe            0x001b07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2796 httpd.exe            0x001b07e8 USERNAME                       Administrator
+    2796 httpd.exe            0x001b07e8 USERPROFILE                    C:\Users\Administrator
+    2796 httpd.exe            0x001b07e8 windir                         C:\Windows
+    2804 mysqld.exe           0x00082d58 ALLUSERSPROFILE                C:\ProgramData
+    2804 mysqld.exe           0x00082d58 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2804 mysqld.exe           0x00082d58 CommonProgramFiles             C:\Program Files\Common Files
+    2804 mysqld.exe           0x00082d58 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2804 mysqld.exe           0x00082d58 ComSpec                        C:\Windows\system32\cmd.exe
+    2804 mysqld.exe           0x00082d58 FP_NO_HOST_CHECK               NO
+    2804 mysqld.exe           0x00082d58 HOMEDRIVE                      C:
+    2804 mysqld.exe           0x00082d58 HOMEPATH                       \Users\Administrator
+    2804 mysqld.exe           0x00082d58 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2804 mysqld.exe           0x00082d58 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2804 mysqld.exe           0x00082d58 NUMBER_OF_PROCESSORS           1
+    2804 mysqld.exe           0x00082d58 OS                             Windows_NT
+    2804 mysqld.exe           0x00082d58 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2804 mysqld.exe           0x00082d58 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2804 mysqld.exe           0x00082d58 PROCESSOR_ARCHITECTURE         x86
+    2804 mysqld.exe           0x00082d58 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2804 mysqld.exe           0x00082d58 PROCESSOR_LEVEL                6
+    2804 mysqld.exe           0x00082d58 PROCESSOR_REVISION             2a07
+    2804 mysqld.exe           0x00082d58 ProgramData                    C:\ProgramData
+    2804 mysqld.exe           0x00082d58 ProgramFiles                   C:\Program Files
+    2804 mysqld.exe           0x00082d58 PUBLIC                         C:\Users\Public
+    2804 mysqld.exe           0x00082d58 SESSIONNAME                    Console
+    2804 mysqld.exe           0x00082d58 SystemDrive                    C:
+    2804 mysqld.exe           0x00082d58 SystemRoot                     C:\Windows
+    2804 mysqld.exe           0x00082d58 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2804 mysqld.exe           0x00082d58 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2804 mysqld.exe           0x00082d58 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2804 mysqld.exe           0x00082d58 USERNAME                       Administrator
+    2804 mysqld.exe           0x00082d58 USERPROFILE                    C:\Users\Administrator
+    2804 mysqld.exe           0x00082d58 windir                         C:\Windows
+    2856 FileZillaServer      0x002c07e8 ALLUSERSPROFILE                C:\ProgramData
+    2856 FileZillaServer      0x002c07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2856 FileZillaServer      0x002c07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2856 FileZillaServer      0x002c07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2856 FileZillaServer      0x002c07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2856 FileZillaServer      0x002c07e8 FP_NO_HOST_CHECK               NO
+    2856 FileZillaServer      0x002c07e8 HOMEDRIVE                      C:
+    2856 FileZillaServer      0x002c07e8 HOMEPATH                       \Users\Administrator
+    2856 FileZillaServer      0x002c07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2856 FileZillaServer      0x002c07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2856 FileZillaServer      0x002c07e8 NUMBER_OF_PROCESSORS           1
+    2856 FileZillaServer      0x002c07e8 OS                             Windows_NT
+    2856 FileZillaServer      0x002c07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2856 FileZillaServer      0x002c07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2856 FileZillaServer      0x002c07e8 PROCESSOR_ARCHITECTURE         x86
+    2856 FileZillaServer      0x002c07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2856 FileZillaServer      0x002c07e8 PROCESSOR_LEVEL                6
+    2856 FileZillaServer      0x002c07e8 PROCESSOR_REVISION             2a07
+    2856 FileZillaServer      0x002c07e8 ProgramData                    C:\ProgramData
+    2856 FileZillaServer      0x002c07e8 ProgramFiles                   C:\Program Files
+    2856 FileZillaServer      0x002c07e8 PUBLIC                         C:\Users\Public
+    2856 FileZillaServer      0x002c07e8 SESSIONNAME                    Console
+    2856 FileZillaServer      0x002c07e8 SystemDrive                    C:
+    2856 FileZillaServer      0x002c07e8 SystemRoot                     C:\Windows
+    2856 FileZillaServer      0x002c07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2856 FileZillaServer      0x002c07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2856 FileZillaServer      0x002c07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2856 FileZillaServer      0x002c07e8 USERNAME                       Administrator
+    2856 FileZillaServer      0x002c07e8 USERPROFILE                    C:\Users\Administrator
+    2856 FileZillaServer      0x002c07e8 windir                         C:\Windows
+    2880 httpd.exe            0x000a07e8 ALLUSERSPROFILE                C:\ProgramData
+    2880 httpd.exe            0x000a07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2880 httpd.exe            0x000a07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2880 httpd.exe            0x000a07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2880 httpd.exe            0x000a07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2880 httpd.exe            0x000a07e8 FP_NO_HOST_CHECK               NO
+    2880 httpd.exe            0x000a07e8 HOMEDRIVE                      C:
+    2880 httpd.exe            0x000a07e8 HOMEPATH                       \Users\Administrator
+    2880 httpd.exe            0x000a07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2880 httpd.exe            0x000a07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2880 httpd.exe            0x000a07e8 NUMBER_OF_PROCESSORS           1
+    2880 httpd.exe            0x000a07e8 OS                             Windows_NT
+    2880 httpd.exe            0x000a07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2880 httpd.exe            0x000a07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2880 httpd.exe            0x000a07e8 PROCESSOR_ARCHITECTURE         x86
+    2880 httpd.exe            0x000a07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2880 httpd.exe            0x000a07e8 PROCESSOR_LEVEL                6
+    2880 httpd.exe            0x000a07e8 PROCESSOR_REVISION             2a07
+    2880 httpd.exe            0x000a07e8 ProgramData                    C:\ProgramData
+    2880 httpd.exe            0x000a07e8 ProgramFiles                   C:\Program Files
+    2880 httpd.exe            0x000a07e8 PUBLIC                         C:\Users\Public
+    2880 httpd.exe            0x000a07e8 SESSIONNAME                    Console
+    2880 httpd.exe            0x000a07e8 SystemDrive                    C:
+    2880 httpd.exe            0x000a07e8 SystemRoot                     C:\Windows
+    2880 httpd.exe            0x000a07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2880 httpd.exe            0x000a07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2880 httpd.exe            0x000a07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2880 httpd.exe            0x000a07e8 USERNAME                       Administrator
+    2880 httpd.exe            0x000a07e8 USERPROFILE                    C:\Users\Administrator
+    2880 httpd.exe            0x000a07e8 windir                         C:\Windows
+    2880 httpd.exe            0x000a07e8 AP_PARENT_PID                  2796
+    2516 wuauclt.exe          0x001c07e8 ALLUSERSPROFILE                C:\ProgramData
+    2516 wuauclt.exe          0x001c07e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2516 wuauclt.exe          0x001c07e8 CommonProgramFiles             C:\Program Files\Common Files
+    2516 wuauclt.exe          0x001c07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2516 wuauclt.exe          0x001c07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2516 wuauclt.exe          0x001c07e8 FP_NO_HOST_CHECK               NO
+    2516 wuauclt.exe          0x001c07e8 HOMEDRIVE                      C:
+    2516 wuauclt.exe          0x001c07e8 HOMEPATH                       \Users\Administrator
+    2516 wuauclt.exe          0x001c07e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2516 wuauclt.exe          0x001c07e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2516 wuauclt.exe          0x001c07e8 NUMBER_OF_PROCESSORS           1
+    2516 wuauclt.exe          0x001c07e8 OS                             Windows_NT
+    2516 wuauclt.exe          0x001c07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2516 wuauclt.exe          0x001c07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2516 wuauclt.exe          0x001c07e8 PROCESSOR_ARCHITECTURE         x86
+    2516 wuauclt.exe          0x001c07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2516 wuauclt.exe          0x001c07e8 PROCESSOR_LEVEL                6
+    2516 wuauclt.exe          0x001c07e8 PROCESSOR_REVISION             2a07
+    2516 wuauclt.exe          0x001c07e8 ProgramData                    C:\ProgramData
+    2516 wuauclt.exe          0x001c07e8 ProgramFiles                   C:\Program Files
+    2516 wuauclt.exe          0x001c07e8 PUBLIC                         C:\Users\Public
+    2516 wuauclt.exe          0x001c07e8 SystemDrive                    C:
+    2516 wuauclt.exe          0x001c07e8 SystemRoot                     C:\Windows
+    2516 wuauclt.exe          0x001c07e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2516 wuauclt.exe          0x001c07e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2516 wuauclt.exe          0x001c07e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2516 wuauclt.exe          0x001c07e8 USERNAME                       Administrator
+    2516 wuauclt.exe          0x001c07e8 USERPROFILE                    C:\Users\Administrator
+    2516 wuauclt.exe          0x001c07e8 windir                         C:\Windows
+    1972 cmd.exe              0x0043e4e0 ALLUSERSPROFILE                C:\ProgramData
+    1972 cmd.exe              0x0043e4e0 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    1972 cmd.exe              0x0043e4e0 CommonProgramFiles             C:\Program Files\Common Files
+    1972 cmd.exe              0x0043e4e0 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    1972 cmd.exe              0x0043e4e0 ComSpec                        C:\Windows\system32\cmd.exe
+    1972 cmd.exe              0x0043e4e0 FP_NO_HOST_CHECK               NO
+    1972 cmd.exe              0x0043e4e0 HOMEDRIVE                      C:
+    1972 cmd.exe              0x0043e4e0 HOMEPATH                       \Users\Administrator
+    1972 cmd.exe              0x0043e4e0 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    1972 cmd.exe              0x0043e4e0 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    1972 cmd.exe              0x0043e4e0 NUMBER_OF_PROCESSORS           1
+    1972 cmd.exe              0x0043e4e0 OS                             Windows_NT
+    1972 cmd.exe              0x0043e4e0 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    1972 cmd.exe              0x0043e4e0 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    1972 cmd.exe              0x0043e4e0 PROCESSOR_ARCHITECTURE         x86
+    1972 cmd.exe              0x0043e4e0 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    1972 cmd.exe              0x0043e4e0 PROCESSOR_LEVEL                6
+    1972 cmd.exe              0x0043e4e0 PROCESSOR_REVISION             2a07
+    1972 cmd.exe              0x0043e4e0 ProgramData                    C:\ProgramData
+    1972 cmd.exe              0x0043e4e0 ProgramFiles                   C:\Program Files
+    1972 cmd.exe              0x0043e4e0 PROMPT                         $P$G
+    1972 cmd.exe              0x0043e4e0 PUBLIC                         C:\Users\Public
+    1972 cmd.exe              0x0043e4e0 SESSIONNAME                    Console
+    1972 cmd.exe              0x0043e4e0 SystemDrive                    C:
+    1972 cmd.exe              0x0043e4e0 SystemRoot                     C:\Windows
+    1972 cmd.exe              0x0043e4e0 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    1972 cmd.exe              0x0043e4e0 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    1972 cmd.exe              0x0043e4e0 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    1972 cmd.exe              0x0043e4e0 USERNAME                       Administrator
+    1972 cmd.exe              0x0043e4e0 USERPROFILE                    C:\Users\Administrator
+    1972 cmd.exe              0x0043e4e0 windir                         C:\Windows
+    3848 TrustedInstalle      0x000f07e8 ALLUSERSPROFILE                C:\ProgramData
+    3848 TrustedInstalle      0x000f07e8 APPDATA                        C:\Windows\system32\config\systemprofile\AppData\Roaming
+    3848 TrustedInstalle      0x000f07e8 CommonProgramFiles             C:\Program Files\Common Files
+    3848 TrustedInstalle      0x000f07e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    3848 TrustedInstalle      0x000f07e8 ComSpec                        C:\Windows\system32\cmd.exe
+    3848 TrustedInstalle      0x000f07e8 FP_NO_HOST_CHECK               NO
+    3848 TrustedInstalle      0x000f07e8 LOCALAPPDATA                   C:\Windows\system32\config\systemprofile\AppData\Local
+    3848 TrustedInstalle      0x000f07e8 NUMBER_OF_PROCESSORS           1
+    3848 TrustedInstalle      0x000f07e8 OS                             Windows_NT
+    3848 TrustedInstalle      0x000f07e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    3848 TrustedInstalle      0x000f07e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    3848 TrustedInstalle      0x000f07e8 PROCESSOR_ARCHITECTURE         x86
+    3848 TrustedInstalle      0x000f07e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    3848 TrustedInstalle      0x000f07e8 PROCESSOR_LEVEL                6
+    3848 TrustedInstalle      0x000f07e8 PROCESSOR_REVISION             2a07
+    3848 TrustedInstalle      0x000f07e8 ProgramData                    C:\ProgramData
+    3848 TrustedInstalle      0x000f07e8 ProgramFiles                   C:\Program Files
+    3848 TrustedInstalle      0x000f07e8 PUBLIC                         C:\Users\Public
+    3848 TrustedInstalle      0x000f07e8 SystemDrive                    C:
+    3848 TrustedInstalle      0x000f07e8 SystemRoot                     C:\Windows
+    3848 TrustedInstalle      0x000f07e8 TEMP                           C:\Windows\TEMP
+    3848 TrustedInstalle      0x000f07e8 TMP                            C:\Windows\TEMP
+    3848 TrustedInstalle      0x000f07e8 USERDOMAIN                     WORKGROUP
+    3848 TrustedInstalle      0x000f07e8 USERNAME                       WIN-L0ZZQ76PMUF$
+    3848 TrustedInstalle      0x000f07e8 USERPROFILE                    C:\Windows\system32\config\systemprofile
+    3848 TrustedInstalle      0x000f07e8 windir                         C:\Windows
+    2120 FTK Imager.exe       0x002207e8 ALLUSERSPROFILE                C:\ProgramData
+    2120 FTK Imager.exe       0x002207e8 APPDATA                        C:\Users\Administrator\AppData\Roaming
+    2120 FTK Imager.exe       0x002207e8 CommonProgramFiles             C:\Program Files\Common Files
+    2120 FTK Imager.exe       0x002207e8 COMPUTERNAME                   WIN-L0ZZQ76PMUF
+    2120 FTK Imager.exe       0x002207e8 ComSpec                        C:\Windows\system32\cmd.exe
+    2120 FTK Imager.exe       0x002207e8 FP_NO_HOST_CHECK               NO
+    2120 FTK Imager.exe       0x002207e8 HOMEDRIVE                      C:
+    2120 FTK Imager.exe       0x002207e8 HOMEPATH                       \Users\Administrator
+    2120 FTK Imager.exe       0x002207e8 LOCALAPPDATA                   C:\Users\Administrator\AppData\Local
+    2120 FTK Imager.exe       0x002207e8 LOGONSERVER                    \\WIN-L0ZZQ76PMUF
+    2120 FTK Imager.exe       0x002207e8 NUMBER_OF_PROCESSORS           1
+    2120 FTK Imager.exe       0x002207e8 OS                             Windows_NT
+    2120 FTK Imager.exe       0x002207e8 Path                           C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
+    2120 FTK Imager.exe       0x002207e8 PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    2120 FTK Imager.exe       0x002207e8 PROCESSOR_ARCHITECTURE         x86
+    2120 FTK Imager.exe       0x002207e8 PROCESSOR_IDENTIFIER           x86 Family 6 Model 42 Stepping 7, GenuineIntel
+    2120 FTK Imager.exe       0x002207e8 PROCESSOR_LEVEL                6
+    2120 FTK Imager.exe       0x002207e8 PROCESSOR_REVISION             2a07
+    2120 FTK Imager.exe       0x002207e8 ProgramData                    C:\ProgramData
+    2120 FTK Imager.exe       0x002207e8 ProgramFiles                   C:\Program Files
+    2120 FTK Imager.exe       0x002207e8 PUBLIC                         C:\Users\Public
+    2120 FTK Imager.exe       0x002207e8 SESSIONNAME                    Console
+    2120 FTK Imager.exe       0x002207e8 SystemDrive                    C:
+    2120 FTK Imager.exe       0x002207e8 SystemRoot                     C:\Windows
+    2120 FTK Imager.exe       0x002207e8 TEMP                           C:\Users\ADMINI~1\AppData\Local\Temp
+    2120 FTK Imager.exe       0x002207e8 TMP                            C:\Users\ADMINI~1\AppData\Local\Temp
+    2120 FTK Imager.exe       0x002207e8 USERDOMAIN                     WIN-L0ZZQ76PMUF
+    2120 FTK Imager.exe       0x002207e8 USERNAME                       Administrator
+    2120 FTK Imager.exe       0x002207e8 USERPROFILE                    C:\Users\Administrator
+    2120 FTK Imager.exe       0x002207e8 windir                         C:\Windows
